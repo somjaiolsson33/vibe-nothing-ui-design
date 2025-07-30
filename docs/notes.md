@@ -9,3 +9,4 @@ Notes and usage details for vibe-nothing-ui-design.
 - link the usage section
 - fix a small wording issue
 - add a note about the defaults
+- clarify the setup steps
