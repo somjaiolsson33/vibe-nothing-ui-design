@@ -13,3 +13,4 @@ Notes and usage details for vibe-nothing-ui-design.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
