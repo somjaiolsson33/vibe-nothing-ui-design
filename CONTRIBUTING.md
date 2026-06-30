@@ -33,3 +33,4 @@ Notes and usage details for vibe-nothing-ui-design.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- link the usage section
